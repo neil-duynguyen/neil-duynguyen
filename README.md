@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Văn Duy</h1>
 <h3 align="center">A passionate backend developer from VietNam</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neil-duynguyen" alt="neil-duynguyen" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100006100877019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100006100877019" height="30" width="40" /></a>
