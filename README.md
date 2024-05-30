@@ -14,7 +14,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,gitlab,firebase,html,css,visualstudio,vscode,figma,git" /><br>
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,spring,docker,postman,java,spring,unity,androidstudio,azure,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,docker,postman,java,spring,unity,androidstudio,azure,mysql" /><br>
 <!--     <img src="https://skillicons.dev/icons?i=jenkins,bootstrap,mui,mysql,html,css,sass,tailwind,vscode,figma,xd,ps,git" /> -->
 </div>
 
