@@ -34,7 +34,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="thanhtin4401">
+  <a href="#" title="neil-duynguyen">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neil-duynguyen&show_icons=true&locale=en&layout=compact" alt="neil-duynguyen" />
   </a>
   <a href="#" title="thanhtin4401">
