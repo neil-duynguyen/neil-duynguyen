@@ -19,7 +19,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,gitlab,firebase,html,css,figma,git" /><br>
     <img src="https://skillicons.dev/icons?i=cs,dotnet,js,docker,postman,java,spring,unity,androidstudio,azure,mysql,postgres" /><br>
-<!--     <img src="https://skillicons.dev/icons?i=jenkins,bootstrap,mui,mysql,html,css,sass,tailwind,vscode,figma,xd,ps,git" /> -->
+<!--     <img src="https://skillicons.dev/icons?i=jenkins,bootstrap,mui,mysql,html,css,sass,tailwind,vscode,figma,xd,ps,git,py" /> -->
 </div>
 
 <br/><br/><br/>
